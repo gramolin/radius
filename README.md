@@ -1,7 +1,8 @@
 # Proton radius extraction from transverse charge density
 
 This repository contains all of the code and data necessary to generate the full analysis and plots of our paper:
-> A. V. Gramolin and R. L. Russell, "Transverse charge density and the radius of the proton"
+> A. V. Gramolin and R. L. Russell, "Transverse charge density and the radius of the proton", [arXiv:2102.13022
+](https://arxiv.org/abs/2102.13022)
 
 All of the data analyzed come from the [A1 Collaboration at Mainz](https://wwwa1.kph.uni-mainz.de), described in:
 > J. C. Bernauer *et al.* (A1 Collaboration), [Phys. Rev. Lett. **105**, 242001 (2010)](https://doi.org/10.1103/PhysRevLett.105.242001) <br>
